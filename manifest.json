@@ -1,0 +1,17 @@
+{
+    "res": {
+        "style.css": {
+            "uri": "/style.css",
+            "type": "css"
+        },
+        "test/hello.js": {
+            "uri": "/test/hello.js",
+            "type": "js"
+        },
+        "test/say.js": {
+            "uri": "/test/say.js",
+            "type": "js"
+        }
+    },
+    "pkg": {}
+}
